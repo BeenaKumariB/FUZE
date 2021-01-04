@@ -1,0 +1,6 @@
+com\example\types\helloworld\package-info.class
+com\example\SpringWsApplication.class
+com\example\types\helloworld\PurchaseType.class
+com\example\types\helloworld\PurchaseListType.class
+com\example\types\helloworld\ObjectFactory.class
+com\example\ws\endpoint\WebServiceConfig.class

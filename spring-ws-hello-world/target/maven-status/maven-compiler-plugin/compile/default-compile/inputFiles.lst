@@ -1,0 +1,9 @@
+D:\POC\spring-ws-hello-world\src\main\java\com\example\SpringWsApplication.java
+D:\POC\spring-ws-hello-world\src\main\java\com\example\ws\endpoint\WebServiceConfig.java
+D:\POC\spring-ws-hello-world\target\generated-sources\xjc\com\example\types\helloworld\PurchaseListType.java
+D:\POC\spring-ws-hello-world\target\generated-sources\xjc\com\example\types\helloworld\ObjectFactory.java
+D:\POC\spring-ws-hello-world\target\generated-sources\xjc\com\example\types\helloworld\package-info.java
+D:\POC\spring-ws-hello-world\src\main\java\com\example\ws\client\ClientConfig.java
+D:\POC\spring-ws-hello-world\src\main\java\com\example\ws\endpoint\HelloWorldEndpoint.java
+D:\POC\spring-ws-hello-world\src\main\java\com\example\ws\client\HelloWorldClient.java
+D:\POC\spring-ws-hello-world\target\generated-sources\xjc\com\example\types\helloworld\PurchaseType.java
