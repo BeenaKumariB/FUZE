@@ -8,9 +8,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath></relativePath> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
 	<artifactId>eurekaserver</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>eurekaserver</name>
 	<description>Demo project for Spring Boot</description>
@@ -37,6 +35,7 @@
 			<groupId>com.example</groupId>
 			<artifactId>Fuze</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
+			<type>war</type>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
