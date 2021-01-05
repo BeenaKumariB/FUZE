@@ -11,9 +11,7 @@
         <relativePath></relativePath>
         <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.poc</groupId>
     <artifactId>purchaseOrder1</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>purchaseOrder1</name>
     <description>project for purchase order</description>
@@ -27,6 +25,7 @@
             <groupId>com.example</groupId>
             <artifactId>Fuze</artifactId>
             <version>0.0.1-SNAPSHOT</version>
+	    <type>war</type>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
