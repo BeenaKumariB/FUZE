@@ -11,9 +11,7 @@
         <relativePath></relativePath>
         <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.track.trucks</groupId>
     <artifactId>TrackMyTrucks-1</artifactId>
-    <version>V-112020</version>
     <name>TrackMyTrucks-1</name>
     <description>Track-My-Trucks</description>
     <packaging>jar</packaging>
@@ -25,6 +23,7 @@
             <groupId>com.example</groupId>
             <artifactId>Fuze</artifactId>
             <version>0.0.1-SNAPSHOT</version>
+	    <type>war</type>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
