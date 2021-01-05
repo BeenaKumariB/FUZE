@@ -42,7 +42,5 @@
         <module>../eurekaserver</module>
         <module>../ZuulGateway</module>
         <module>../BulkPurchaseOrderCreate</module>
-        <module>../spring-ws-hello-world</module>
-        <module>../purchaseOrder1</module>
     </modules>
 </project>
